@@ -6,7 +6,7 @@
 
 🚀 **About Me**  
 - 🔭 Currently working on: personal projects & experiments  
-- 🌱 Exploring: **NumPy** & **OpenCV** (repos coming soon 🚀)  
+- 🌱 Exploring: **OpenCV** (repos coming soon 🚀)  
 - 👯 Looking to collaborate on: Web apps, AI/ML projects & open-source contributions  
 - 💬 Ask me about: Coding, problem-solving, and creative projects  
 - ⚡ Fun fact: I enjoy mixing creativity with technology 🎨  
