@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Abdul Basit  
 
-![Coding](https://github.com/Ashutosh00710/github-readme-activity-graph/raw/main/images/header.svg)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Coder+💻;Learner+📚;Explorer+🌍;Always+Building+🚀)](https://git.io/typing-svg)  
 
 ---
